@@ -1,0 +1,4 @@
+- [x] Update Hero.jsx: Change background to colorful gradient, style "Anshika Gaur" with gradient text, update button colors to purple/pink gradients
+- [x] Update Navbar.jsx: Change brand text "Anshika" to gradient, update hover colors to purple
+- [x] Update App.jsx: Change footer background to gradient, update link hover colors
+- [ ] Test the changes by viewing the site
