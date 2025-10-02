@@ -14,8 +14,8 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 
 ## Screenshots
 
-![Portfolio Screenshot 1](portfolio-1.png)
-![Portfolio Screenshot 2](portfolio-2.png)
+![Portfolio Screenshot 1](src/portfolio-1.png)
+![Portfolio Screenshot 2](src/portfolio-2.png)
 
 ## Technologies Used
 
