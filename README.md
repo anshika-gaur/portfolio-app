@@ -12,6 +12,11 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 - **Responsive Design**: Optimized for all devices
 - **Dark/Light Theme**: Toggle between themes
 
+## Screenshots
+
+![Portfolio Screenshot 1](portfolio-1.png)
+![Portfolio Screenshot 2](portfolio-2.png)
+
 ## Technologies Used
 
 - **React**: Frontend framework
