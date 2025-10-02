@@ -58,31 +58,6 @@ npm run build
 npm run preview
 ```
 
-## Project Structure
-
-```
-portfolio-app/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── About.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Projects.jsx
-│   │   └── Skills.jsx
-│   ├── context/
-│   │   └── ThemeContext.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-└── README.md
-```
-
 ## Contributing
 
 Feel free to fork this repository and submit pull requests.
@@ -90,7 +65,3 @@ Feel free to fork this repository and submit pull requests.
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## Contact
-
-Anshika Gaur - [Your Email/LinkedIn/GitHub]
